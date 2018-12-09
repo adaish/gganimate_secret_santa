@@ -6,9 +6,7 @@
 
 <img src="https://github.com/adaish/gganimate_secret_santa/blob/master/GIF_output/christmas_tree.gif" width="220" height="240" /><img src="https://github.com/adaish/gganimate_secret_santa/blob/master/GIF_output/christmas_tree_outline.gif" width="230" height="240" /><img src="https://github.com/adaish/gganimate_secret_santa/blob/master/GIF_output/happy_christmas_message.gif" width="250" height="250" />
 
-Modified code from http://edinbr.org/edinbr/2017/11/18/pre-december-Merry-Christmas-message.html @CaterinaC
-
-This code didn't work/run for me but inspired me to fix to give gganimate a try. :)
+Modified code from http://edinbr.org/edinbr/2017/11/18/pre-december-Merry-Christmas-message.html @CaterinaC (This code didn't work/run for me but inspired me to fix to give gganimate a try :octocat: ) 
 
 ----
 ### Install 

@@ -18,7 +18,6 @@ devtools::install_github("dgrtwo/gganimate")
 library(tweenr)
 library(ggplot2)
 library(gganimate)
-library(readr)
 library(animation)
 library(magick)
 library(ggthemes)
@@ -28,7 +27,7 @@ library(ggthemes)
 # Load data points from extracting them for a tree outline 
 # using  http://arohatgi.info/WebPlotDigitizer/
 
-points <- read.csv( "data/tree_outline.csv", header = F )
+points <- read.csv( "data/tree_outline.csv")
 
 # Create scramble of points to hide image 
 
